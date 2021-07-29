@@ -1,1 +1,3 @@
-# contrastive-learning
+## contrastive-learning
+
+Implementation of SimCLR paper
