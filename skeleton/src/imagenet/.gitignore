@@ -1,0 +1,9 @@
+# ignore this stuff
+
+__pycache__/
+*.ipc
+core
+imagenet_multi.py
+distributed.py
+split.py
+lars.py

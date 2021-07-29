@@ -1,0 +1,6 @@
+__pycache__/
+*.ipc
+core
+main_yfcc.py
+distributed.py
+lars.py
